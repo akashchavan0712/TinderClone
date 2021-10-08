@@ -1,0 +1,189 @@
+#title
+{
+  background-color: #fe3c72;
+  margin: 0;
+  padding: 0;
+}
+
+#features{
+  background-color: pink;
+  padding: 0 13%;
+}
+
+#testimonials{
+  background-color: #fe3c72;
+  text-align: center;
+}
+
+#press{
+  background-color: #fe3c72;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+#pricing{
+  background-color: pink;
+  text-align: center;
+  padding: 3% 15% 3% 15%;
+}
+
+#cta{
+
+  background-color: #fe3c72;
+  color: white;
+  font-family: "Montserrat";
+  font-weight: 600;
+  padding: 3% 15%;
+  text-align: center;
+}
+
+#footer{
+  text-align: center;
+  background-color: pink;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+body{
+  font-family: "Montserrat";
+  font-weight: normal;
+}
+
+h1{
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: "Montserrat";
+  font-weight: 600;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: "Montserrat";
+  font-weight: 600;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+.navbar-brand{
+  font-family: "Montserrat";
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.nav-item{
+  font-size: 20px;
+  padding: 0 15px;
+}
+
+.title_row{
+  padding-top: 50px;
+}
+
+.title_image{
+  width: 50%;
+  transform:rotate(20deg);
+}
+
+.downloadbtn{
+  margin: 5% 2% 2% 0;
+}
+
+.downloadbtn2{
+  margin: 0;
+  padding: 1%;
+}
+
+.container-fluid{
+  padding:3% 15%;
+  color: white;
+}
+
+.feature-row{
+  border: solid pink 5px;
+  margin: 0;
+  text-align: center;
+  padding: 5%;
+  padding-bottom: 55px;
+}
+
+.fas{
+  padding-bottom: 25px;
+}
+
+.fas:hover{
+  color: #fe3c72;
+}
+.far{
+  padding-bottom: 25px;
+}
+.far:hover{
+  color: #fe3c72;
+}
+
+.p1{
+  padding: 0 15%;
+  text-align: center;
+}
+
+.test-div{
+  padding-bottom: 20px;
+}
+
+.press-logo{
+  width: 14%;
+  margin: 20px 20px 50px;
+}
+
+.testimonial-image{
+  width: 40%;
+  text-align: center;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+    color: white;
+}
+.card-body{
+  font-family: "Montserrat";
+  color: black;
+  font-weight: 600;
+}
+
+.card-header{
+  font-family: "Montserrat";
+  font-weight: 200;
+}
+
+.p2{
+  color: black;
+}
+
+.Pricing-details{
+  color: black;
+}
+
+.full{
+  margin: 0;
+  padding: 0;
+}
+@media(max-width: 1028px){
+  .title_image{
+    transform: rotate(0deg);
+    position: relative;
+    left: 85px;
+  }
+}
+
+@media (max-width: 1028px) {
+  .meet-people{
+    text-align: center;
+  }
+}
+.end{
+  padding-bottom: 20px;
+}
